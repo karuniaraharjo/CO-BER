@@ -14,7 +14,7 @@ int main(){
     // 1.integer(int) contoh 1
     // 2.float(float) contoh 5.99
     // 3.double(double) contoh 9.98
-    // 4.character(char) contoh "A"
+    // 4.character(char nama[10]) contoh "Arun"
     // 5.boolean(bool) contoh true / false
     // 6.string(string) contoh "Karunia Raharjo"
 
@@ -22,6 +22,7 @@ int main(){
   int angka = 17; 
   // Penulisan untuk variabel dg tipe data yang sama
   string nama = "Karunia Raharjo", alamat = "Batang";
+  //char nama[100] = "Karunia Raharjo", alamat[100] = "Batang";
 
   // ini output untuk menampilkan isi variabel
   cout << angka << " " << nama << " " << alamat;

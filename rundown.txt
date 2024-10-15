@@ -1,0 +1,31 @@
+Rundown
+
+1. tipe data & variabel
+2. input-output
+
+3. kondisi(if)
+4. perulangan 
+
+5. Memahami 2 soal
+6. Algoritma Login
+7. String kontrol di dashboard
+
+1. Membuat program login 
+  -dengan username & password
+  -ada 2 user (Admin & User)
+  -output Dashboard Admin dan Dashboard User
+  -jika username/password salah maka mengulang
+  -jika sudah mengulang 3x maka program berhenti
+
+2. Algoritma
+  -siapkan data username & password
+  -masukkan username
+  -masukkan password
+  -cek username & password apakah sesuai dengan data
+  -jika username & password sesuai maka masuk ke dashboard
+  -jika login sebagai admin masuk dashboard admin
+  -jika login sebagai user masuk dashboard user
+  -jika salah maka tampilkan peringatan salah dan mengulang memasukkan username & password
+  -jika sudah mengulang 3x maka program berhenti
+
+3. 

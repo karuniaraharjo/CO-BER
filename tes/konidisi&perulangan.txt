@@ -1,0 +1,10 @@
+1. Buatlah program untuk menentukan grade nilai
+  -nilai 90-100 grade A
+  -nilai 80-89 grade B
+  -nilai 70-79 grade C
+  -nilai 60-69 grade D
+  -nilai 0-59 grade E
+
+2. Buatlah program untuk mengkonversi angka(1-7) menjadi hari
+
+3. Buatlah program untuk menampilkan angka 1-1000 secara urut
